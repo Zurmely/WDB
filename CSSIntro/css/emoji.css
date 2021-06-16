@@ -1,0 +1,22 @@
+body {
+    background: #050505;
+    color: white;
+}
+
+.flushed {
+    background-color: yellow;
+    border-radius: 15px;
+}
+
+.victory {
+    background-color: blueviolet;
+    transition: all 0.5s ease-in-out;
+}
+
+.victory:hover {
+    background-color: red;
+}
+
+#heading {
+    color: blue;
+}
