@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: #0A1931;
+}
+
+div {
+    margin: 0;
+    background-color: #185ADB;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container1 {
+    width: 200px;
+    height: 200px;
+    background-color: #FFC947;
+}
+
+.container2 {
+    width: 200px;
+    height: 200px;
+    background-color: #FEDDBE;
+}
